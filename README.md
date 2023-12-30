@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Asimcoded/blog-preview-card-frontend_mentor)
-- Live Site URL: [Add live site URL here](https://asimcoded.github.io/blog-preview-card-frontend_mentor/)
+- Solution URL: [Link](https://github.com/Asimcoded/blog-preview-card-frontend_mentor)
+- Live Site URL: [Link](https://asimcoded.github.io/blog-preview-card-frontend_mentor/)
 
 ## Built with
 
